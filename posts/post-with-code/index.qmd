@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS Data"
+author: "Denis Mutuku"
+date: "2025-01-13"
+categories: [code, analysis, r]
+image: "image.jpg"
+---
+
+This is was a post using 2016 Ethiopia DHS Data.
+
+```{r}
+1 + 1
+```

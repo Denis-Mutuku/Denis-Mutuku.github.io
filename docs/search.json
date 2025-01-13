@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis of DHS Data\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\nJan 13, 2025\n\n\nDenis Mutuku\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\nDenis Mutuku\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Denis Mutuku",
+    "section": "",
+    "text": "Denis is an epidemiologist with a strong background in public health and medical statistics. He has a diverse range of skills, including conducting quantitative and qualitative research, data management and analysis, project implementation, and monitoring and evaluation (M&E). He is passionate about improving health and well-being by generating evidence that influences policies and strategies to prevent diseases, prolong life, and promote health. As an epidemiologist, his aim is to use my analytical skills and expertise to guide evidence-based initiatives for maintaining a healthy society."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
