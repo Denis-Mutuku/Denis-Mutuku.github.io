@@ -1,0 +1,8 @@
+---
+title: "CV"
+format: html
+---
+
+<iframe src="Denis_Mutuku_CV_02.01.2025.pdf" width="100%" height="600px">
+
+</iframe>
